@@ -1,5 +1,5 @@
 # poetic phrase generator
-create AI-generated poetic phrases about your favorite activities and places to visit with the help of Scrimba
+create AI-generated poetic phrases about your favorite activities and places to visit with the help of Scrimba APIs with OpenAi & Unsplash
 
 ## About Scrimba
 
